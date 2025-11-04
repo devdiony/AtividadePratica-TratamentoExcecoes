@@ -1,0 +1,2 @@
+Mon Nov 03 23:57:50 GMT-03:00 2025 - ERRO: Divisão por zero não é permitida.
+Mon Nov 03 23:57:50 GMT-03:00 2025 - ERRO: Nome não pode ser vazio e idade deve ser maior que 18.
